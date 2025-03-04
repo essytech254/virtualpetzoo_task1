@@ -17,7 +17,7 @@ Virtual Pet Zoo is an interactive Python-based simulation where users can manage
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/essytech254/virtualpetzoo_task1.git
    cd virtual-pet-zoo
    ```
 2. Run the program:
